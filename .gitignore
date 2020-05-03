@@ -250,3 +250,4 @@ xcuserdata/
 *.out
 *.app
 firstSketch.xcodeproj/project.xcworkspace/xcuserdata/Alexis.xcuserdatad/UserInterfaceState.xcuserstate
+*.xcuserstate
