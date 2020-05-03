@@ -12,7 +12,7 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    ofDrawBitmapStringHighlight("Hola World", 20, 20);
+    ofDrawBitmapStringHighlight("Hello World", 20, 20);
 }
 
 //--------------------------------------------------------------
